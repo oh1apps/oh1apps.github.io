@@ -178,8 +178,8 @@ strong {
   font-weight:700;
 }
 
-strong.hover {
-  color:rgb(173, 24, 24);
+strong:hover, strong:focus {
+  color:#D62E22;
   font-weight:700;
 }
 
