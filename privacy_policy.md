@@ -12,6 +12,4 @@ We don't do this here.
 
 None of this bullshit.
 
-Simple as that.
-
-**That’s our policy.**
+_That’s our policy._
