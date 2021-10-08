@@ -4,12 +4,12 @@ layout: default
 # Privacy Policy
 * * *
 
-**Collect, store or process any user data?**
+### Collect, store or process any user data?
 
 We don't do this here.
 
-**Analytics tools, telemetry, usage tracking?**
+### Analytics tools, telemetry, usage tracking?
 
 None of this bullshit.
 
-That’s our policy.
+_That’s our policy._
