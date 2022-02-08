@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
-Privacy policy? We don’t collect or store any user data. Simple as that.
+# Privacy Policy
+* * *
+
+### Collect, store or process any user data?
+
+We don't do this here.
+
+### Analytics tools, telemetry, usage tracking?
+
+None of this bullshit.
 
 That’s our policy.
