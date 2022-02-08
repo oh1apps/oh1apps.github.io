@@ -12,4 +12,4 @@ We don't do this here.
 
 None of this bullshit.
 
-<strong>That’s our policy.</strong>
+<b>That’s our policy.</b>
