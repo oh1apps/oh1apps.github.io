@@ -4,15 +4,15 @@ layout: default
 ## Other projects
 ***
 
-**Telegram Pusher**
-
 ![Telegram Pusher](assets/images/t48.png)
+
+**Telegram Pusher**
 
 Some description
 
 ***
 
-**Telegram Pusher**
+### Telegram Pusher
 
 ![Telegram Pusher](assets/images/t48.png)
 
