@@ -6,7 +6,7 @@ layout: default
 
 ![Telegram Pusher](assets/images/t48.png)
 
-**Telegram Pusher**
+### Telegram Pusher
 
 Some description
 
