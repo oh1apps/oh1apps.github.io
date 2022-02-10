@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-# Privacy Policy
-* * *
+## Privacy Policy
+***
 
 ### Collect, store or process any user data?
 
@@ -12,4 +12,4 @@ We don't do this here.
 
 None of this bullshit.
 
-<b>That’s my policy.</b>
+<b>That’s our policy.</b>
