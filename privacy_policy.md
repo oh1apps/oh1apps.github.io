@@ -11,5 +11,3 @@ We don't do this here.
 ### Analytics tools, telemetry, usage tracking?
 
 None of this bullshit.
-
-<b>That’s our policy.</b>
