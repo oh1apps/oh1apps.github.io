@@ -5,9 +5,9 @@ layout: default
 
 ![Sellasistant](assets/images/ico/sa.png)
 
-<img src="assets/images/poland.png" width="48">
 
-## Sellasistant ![Poland](assets/images/poland.png){width=100}
+
+## Sellasistant <img src="assets/images/poland.png" width="24">
 Rozszerzenie ułatwiające pracę z Sellasistem
 
 ![Edytor Stronn Shoper](assets/images/ico/ess.png)
