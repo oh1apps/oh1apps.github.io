@@ -2,12 +2,9 @@ layout: default
 ---
 # Browser Extensions
 
+<img src="assets/images/poland.png" width="36"> <img src="assets/images/ico/sa.png" width="36">
 
-![Sellasistant](assets/images/ico/sa.png)
-
-
-
-## Sellasistant <img src="assets/images/poland.png" width="24">
+## Sellasistant
 Rozszerzenie ułatwiające pracę z Sellasistem
 
 ![Edytor Stronn Shoper](assets/images/ico/ess.png)
