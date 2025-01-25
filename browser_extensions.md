@@ -11,9 +11,7 @@ Rozszerzenie ułatwiające pracę z Sellasistem
 
 <img src="assets/images/poland.png" width="36"><img src="assets/images/ico/ess.png" width="36">
 
-## Edytor Stron Shoper
-
-<a href="https://chrome.google.com/webstore/detail/telegram-pusher/ebhigbmhamklhjnaleccblonlaimplin">![Chrome extension](assets/images/ico/cr.png)</a>
+## Edytor Stron Shoper <img src="assets/images/poland.png" width="16">
 
 Skrót do edytora Shoper dla produktów, kategorii i stron informacyjnych
 
