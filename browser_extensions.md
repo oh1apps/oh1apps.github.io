@@ -23,4 +23,6 @@ Skrót do edytora Shoper dla produktów, kategorii i stron informacyjnych
 
 Send web content to Telegram
 
+[Read more...](./telegram_pusher.md)
+
 
