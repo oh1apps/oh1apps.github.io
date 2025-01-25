@@ -1,9 +1,9 @@
 # Browser Extensions
 ***
 
-<img src="assets/images/poland.png" width="24"><img src="assets/images/ico/sa.png" width="36">
+<img src="assets/images/ico/sa.png" width="36">
 
-## Sellasistant
+## Sellasistant <img src="assets/images/poland.png" width="16">
 
 Rozszerzenie ułatwiające pracę z Sellasistem
 
