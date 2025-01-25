@@ -9,7 +9,7 @@ Rozszerzenie ułatwiające pracę z Sellasistem
 
 ***
 
-<img src="assets/images/poland.png" width="36"><img src="assets/images/ico/ess.png" width="36">
+<img src="assets/images/ico/ess.png" width="36">
 
 ## Edytor Stron Shoper <img src="assets/images/poland.png" width="16">
 
