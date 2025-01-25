@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
+![Telegram Pusher](assets/images/ico/tp.png)
 ## Telegram Pusher
 ***
 
-![Telegram Pusher](assets/images/ico/tp.png)
+
 
 As an alternative to Pushbullet, Telegram Pusher offers similar functionalities for free.
 
