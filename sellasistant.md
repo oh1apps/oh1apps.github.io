@@ -62,4 +62,4 @@ Dla klientów z Allegro dodaje panel Responso na stronie zamówienia
 
 Przed pierwszym użyciem rozszerzenie należy skonfigurować przechodząc do jego ustawień.
 
-**Dodatkowe skrypty do pracy z rozszerzeniem do pobrania na <a class="paragraph-link" href="https://github.com/oh1apps/sellasistant_scripts">GitHub</a>
+**Dodatkowe skrypty do pracy z rozszerzeniem do pobrania na <a class="paragraph-link" href="https://github.com/oh1apps/sellasistant_scripts">GitHub</a>**
