@@ -19,7 +19,7 @@ Skrót do edytora Shoper dla produktów, kategorii i stron informacyjnych
 
 <a class="paragraph-link" href="/shoper_editor.html">Czytaj więcej...</a>
 
-***
+<!-- ***
 
 <img src="assets/images/icons/tp.webp" height="36">
 
@@ -27,6 +27,6 @@ Skrót do edytora Shoper dla produktów, kategorii i stron informacyjnych
 
 Send web content to Telegram
 
-<a class="paragraph-link" href="./telegram_pusher.html">Read more...</a>
+<a class="paragraph-link" href="./telegram_pusher.html">Read more...</a> -->
 
 
