@@ -24,7 +24,7 @@ Telegram Pusher is available for Firefox and Chromium based browsers. You can ge
 
 ### 1. Add Telegram Pusher bot
 
-Add <a href="https://t.me/PushingRobot">@PushingRobot</a> to your Telegram Chats and activate it by sending */start* command
+Add <a class="paragraph-link" href="https://t.me/PushingRobot">@PushingRobot</a> to your Telegram Chats and activate it by sending */start* command
 
 ### 2. Get your chat ID
 
