@@ -38,13 +38,13 @@ BotFather is special bot for... creating other bots. In next steps you'll create
 
 ### Create your bot
 
-**4.1** Add <a class="paragraph-link" href="https://t.me/botfather">@BotFather</a> to chats and activate the same way as in step 1.
+**1** Add <a class="paragraph-link" href="https://t.me/botfather">@BotFather</a> to chats and activate the same way as in step 1.
 
-**4.2** Send @BotFather */newbot* command and after prompt give it a name.
+**2** Send @BotFather */newbot* command and after prompt give it a name.
 
-**4.3** Now it's time to assign username to your newly created bot. Username must end in ""bot, like TelegramBot
+**3** Now it's time to assign username to your newly created bot. Username must end in ""bot, like TelegramBot
 
-**4.4** After succesful creation of your new bot, BotFather will prompt you with message containing tokento access HTTP API. Write that token down and don't share it with anyone!
+**4** After succesful creation of your new bot, BotFather will prompt you with message containing tokento access HTTP API. Write that token down and don't share it with anyone!
 
 #### Please refer to BotFather help to further customize your bot and manage its settings.
 
