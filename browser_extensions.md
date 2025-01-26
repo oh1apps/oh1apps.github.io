@@ -7,6 +7,8 @@
 
 Rozszerzenie ułatwiające pracę z Sellasistem
 
+<a class="paragraph-link" href="/sellasistant.md">Czytaj więcej...</a>
+
 ***
 
 <img src="assets/images/icons/ess.webp" height="36">
@@ -15,6 +17,8 @@ Rozszerzenie ułatwiające pracę z Sellasistem
 
 Skrót do edytora Shoper dla produktów, kategorii i stron informacyjnych
 
+<a class="paragraph-link" href="/shoper_editor.md">Czytaj więcej...</a>
+
 ***
 
 <img src="assets/images/icons/tp.webp" height="36">
@@ -22,8 +26,6 @@ Skrót do edytora Shoper dla produktów, kategorii i stron informacyjnych
 ## Telegram Pusher
 
 Send web content to Telegram
-
-[Read more...](./telegram_pusher.md)
 
 <a class="paragraph-link" href="/telegram_pusher.md">Read more...</a>
 
