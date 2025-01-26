@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Privacy Policy
+# Privacy Policy
 ***
 
 ### Collect, store or process any user data?
