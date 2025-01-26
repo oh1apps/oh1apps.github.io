@@ -34,11 +34,11 @@ Send another command to @PushingRobot - */getid* to obtain your credentials. Cop
 
 BotFather is special bot for... creating other bots. In next steps you'll create your private bot which will act as receiver for all messages sent by Telegram Pusher extension.
 
-#### Please note that BotFather offers extensive help and is really foolproof in guiding you by hand. More help you can also find on offical Telegram page <a href="https://core.telegram.org/bots#6-botfather">here</a>
+#### Please note that BotFather offers extensive help and is really foolproof in guiding you by hand. More help you can also find on offical Telegram page <a class="paragraph-link" href="https://core.telegram.org/bots#6-botfather">here</a>
 
 ### 4. Create your bot
 
-**4.1** Add <a href="https://t.me/botfather">@BotFather</a> to chats and activate the same way as in step 1.
+**4.1** Add <a class="paragraph-link" href="https://t.me/botfather">@BotFather</a> to chats and activate the same way as in step 1.
 
 **4.2** Send @BotFather */newbot* command and after prompt give it a name.
 

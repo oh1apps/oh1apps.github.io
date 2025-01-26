@@ -25,4 +25,6 @@ Send web content to Telegram
 
 [Read more...](./telegram_pusher.md)
 
+<a class="paragraph-link" href="/telegram_pusher.md">Read more...</a>
+
 
