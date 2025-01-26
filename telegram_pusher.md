@@ -7,16 +7,15 @@ layout: default
 
 <a href="https://chrome.google.com/webstore/detail/telegram-pusher/ebhigbmhamklhjnaleccblonlaimplin"><img class="badges" src="assets/images/badges/cr.png" height="36"/></a><a href="https://microsoftedge.microsoft.com/addons/detail/telegram-pusher/ajchnkkjjdjbdbadphbenmgiabnbjofb"><img class="badges" src="assets/images/badges/edge.png" height="36"/></a><a href="https://addons.mozilla.org/pl/firefox/addon/telegram-pusher/"><img class="badges" src="assets/images/badges/fox.png" height="36"/></a>
 
-***
-
 As an alternative to Pushbullet, Telegram Pusher offers similar functionalities for free.
 
 It consists of two pieces: an extension and a bot that you add to your chat. From there, you can quickly send yourself things such as the URL of the current tab, a photo, selected text, a link, or a note.
 
 You can add as many accounts as you like and send things just by right-clicking!
 
-## Setup
 ***
+
+## Setup
 
 #### The setup of Telegram Pusher will take a few minutes, but it's necessary to create a 100% private environment where no third party can access things you send. Let's start!
 
