@@ -1,7 +1,7 @@
 # Browser Extensions
 ***
 
-<img src="assets/images/icons/sa.webp" height="36"><h2>ELO</h2>
+<img src="assets/images/icons/sa.webp" height="36">
 
 ## Sellasistant <img src="assets/images/poland.png" width="16">
 
