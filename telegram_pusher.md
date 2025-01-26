@@ -9,8 +9,6 @@ layout: default
 
 ***
 
-
-
 As an alternative to Pushbullet, Telegram Pusher offers similar functionalities for free.
 
 It consists of two pieces: an extension and a bot that you add to your chat. From there, you can quickly send yourself things such as the URL of the current tab, a photo, selected text, a link, or a note.

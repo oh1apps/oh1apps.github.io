@@ -6,6 +6,7 @@ layout: default
 # Sellasistant
 
 <a href="https://chrome.google.com/webstore/detail/sellasistant/ljphfmppleockoamlbfhbllebnghdgae"><img class="badges" src="assets/images/badges/cr.png" height="36"/></a>
+
 ***
 
 Rozszerzenie dodaje szereg funkcjonalności ułatwiających pracę z Sellasistem.
