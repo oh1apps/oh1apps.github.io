@@ -6,7 +6,7 @@ layout: default
 # Sellasistant
 ***
 
-Rozszerzenie dodaje szereg funkcjonalności ułatwiających pracę z Sellasistem, dostępne jest do pobrania dla przeglądarek:
+Rozszerzenie dodaje szereg funkcjonalności ułatwiających pracę z Sellasistem, dostępne jest całkowicie za darmo do pobrania dla przeglądarek:
 
 <a href="https://chrome.google.com/webstore/detail/sellasistant/ljphfmppleockoamlbfhbllebnghdgae"><img class="badges" src="assets/images/badges/cr.png" height="36"/></a>
 
