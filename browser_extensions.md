@@ -7,7 +7,7 @@
 
 Rozszerzenie ułatwiające pracę z Sellasistem
 
-<a class="paragraph-link" href="./sellasistant.md">Czytaj więcej...</a>
+<a class="paragraph-link" href="./sellasistant.html">Czytaj więcej...</a>
 
 ***
 
@@ -17,7 +17,7 @@ Rozszerzenie ułatwiające pracę z Sellasistem
 
 Skrót do edytora Shoper dla produktów, kategorii i stron informacyjnych
 
-<a class="paragraph-link" href="/shoper_editor.md">Czytaj więcej...</a>
+<a class="paragraph-link" href="/shoper_editor.html">Czytaj więcej...</a>
 
 ***
 
@@ -27,6 +27,6 @@ Skrót do edytora Shoper dla produktów, kategorii i stron informacyjnych
 
 Send web content to Telegram
 
-<a class="paragraph-link" href="./telegram_pusher.md">Read more...</a>
+<a class="paragraph-link" href="./telegram_pusher.html">Read more...</a>
 
 
