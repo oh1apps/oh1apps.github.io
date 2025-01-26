@@ -13,6 +13,7 @@ Rozszerzenie dodaje szereg funkcjonalności ułatwiających pracę z Sellasistem
 ***
 
 1. Umożliwia łatwe łączenie produktów z magazynu Sellasist z produktami ze sklepu Shoper. Po połączeniu, z listy towarów w SA można przejść bezpośrednio do strony produktu w sklepie lub do strony edycji w panelu administracyjnym. Obsługiwane są zarówno produkty jak i warianty produktów (po stronie Shopera).
+
 ⚠️Wymaga dodatkowego skryptu
 
 ![Łączenie produktów](assets/images/screens/sa/screen1.jpg)
