@@ -2,17 +2,19 @@
 layout: default
 ---
 <img src="assets/images/icons/sa.webp" height="48">
-## Sellasistant
+
+# Sellasistant
 ***
 
 Rozszerzenie dodaje szereg funkcjonalności ułatwiających pracę z Sellasistem, dostępne jest do pobrania dla przeglądarek:
 
 <a href="https://chrome.google.com/webstore/detail/sellasistant/ljphfmppleockoamlbfhbllebnghdgae"><img class="badges" src="assets/images/badges/cr.png" height="36"/></a>
 
-### Funkcje
+## Funkcje
 ***
 
-1. Umożliwia łatwe łączenie produktów z magazynu Sellasist z produktami ze sklepu Shoper. Po połączeniu, z listy towarów w SA można przejść bezpośrednio do strony produktu w sklepie lub do strony edycji w panelu administracyjnym. Obsługiwane są zarówno produkty jak i warianty produktów (po stronie Shopera).
+### Łączenie produktów
+Umożliwia łatwe łączenie produktów z magazynu Sellasist z produktami ze sklepu Shoper. Po połączeniu, z listy towarów w SA można przejść bezpośrednio do strony produktu w sklepie lub do strony edycji w panelu administracyjnym. Obsługiwane są zarówno produkty jak i warianty produktów (po stronie Shopera).
 
 ⚠️Wymaga dodatkowego skryptu
 
@@ -20,15 +22,41 @@ Rozszerzenie dodaje szereg funkcjonalności ułatwiających pracę z Sellasistem
 
 ***
 
-2. Na stronie ręcznego zamawiania przesyłki do zamówienia ukrywa przyciski zapisywania i usuwania szablonów
+### Ukrywanie przycisków
+Na stronie ręcznego zamawiania przesyłki do zamówienia ukrywa przyciski zapisywania i usuwania szablonów
 
-3. W zwrotach podświetla opłacone zamówienia i w przypadku zamówień Allegro dodaje link do loginu kupującego kierujący na stronę zamówienia w serwisie aukcyjnym
+![Ukrywanie przycisków](assets/images/screens/sa/screen2.jpg)
 
-4. Na ekranie pakowania oznacza zamówienie jako spakowane w całości - po zeskanowaniu kodu kreskowego lub wciśnięciu klawisza x
+***
 
-5. Po wpisaniu kodu pocztowego na stronie zamówienia automatycznie uzupełnia nazwę miejscowości
+### Wspomaganie zwrotów
+W zwrotach podświetla opłacone zamówienia i w przypadku zamówień Allegro dodaje link do loginu kupującego kierujący na stronę zamówienia w serwisie aukcyjnym
+
+![Wspomaganie zwrotów](assets/images/screens/sa/screen3.jpg)
+
+***
+
+### Pakowanie kodem
+Na ekranie pakowania oznacza zamówienie jako spakowane w całości - po zeskanowaniu kodu kreskowego lub wciśnięciu klawisza x
+
+![Pakowanie kodem](assets/images/screens/sa/screen4.jpg)
+
+***
+
+### Kody pocztowe
+Po wpisaniu kodu pocztowego na stronie zamówienia automatycznie uzupełnia nazwę miejscowości
+
 ⚠️Wymaga dodatkowego skryptu
 
-6. Dla klientów z Allegro dodaje panel Responso na stronie zamówienia
+![Kody pocztowe](assets/images/screens/sa/screen5.jpg)
+
+***
+
+### Responso
+Dla klientów z Allegro dodaje panel Responso na stronie zamówienia
+
+![Responso](assets/images/screens/sa/screen6.jpg)
+
+***
 
 Przed pierwszym użyciem rozszerzenie należy skonfigurować przechodząc do jego ustawień.
