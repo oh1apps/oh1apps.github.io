@@ -4,11 +4,11 @@ layout: default
 <img src="assets/images/icons/sa.webp" height="48">
 
 # Sellasistant
-***
-
-Rozszerzenie dodaje szereg funkcjonalności ułatwiających pracę z Sellasistem, dostępne jest całkowicie za darmo do pobrania dla przeglądarek:
 
 <a href="https://chrome.google.com/webstore/detail/sellasistant/ljphfmppleockoamlbfhbllebnghdgae"><img class="badges" src="assets/images/badges/cr.png" height="36"/></a>
+***
+
+Rozszerzenie dodaje szereg funkcjonalności ułatwiających pracę z Sellasistem.
 
 ## Funkcje
 ***
@@ -16,7 +16,7 @@ Rozszerzenie dodaje szereg funkcjonalności ułatwiających pracę z Sellasistem
 ### Łączenie produktów
 Umożliwia łatwe łączenie produktów z magazynu Sellasist z produktami ze sklepu Shoper. Po połączeniu, z listy towarów w SA można przejść bezpośrednio do strony produktu w sklepie lub do strony edycji w panelu administracyjnym. Obsługiwane są zarówno produkty jak i warianty produktów (po stronie Shopera).
 
-⚠️Wymaga dodatkowego skryptu
+⚠️**Wymaga dodatkowego skryptu**
 
 ![Łączenie produktów](assets/images/screens/sa/screen1.jpg)
 
@@ -46,7 +46,7 @@ Na ekranie pakowania oznacza zamówienie jako spakowane w całości - po zeskano
 ### Kody pocztowe
 Po wpisaniu kodu pocztowego na stronie zamówienia automatycznie uzupełnia nazwę miejscowości
 
-⚠️Wymaga dodatkowego skryptu
+⚠️**Wymaga dodatkowego skryptu**
 
 ![Kody pocztowe](assets/images/screens/sa/screen5.jpg)
 
@@ -60,3 +60,5 @@ Dla klientów z Allegro dodaje panel Responso na stronie zamówienia
 ***
 
 Przed pierwszym użyciem rozszerzenie należy skonfigurować przechodząc do jego ustawień.
+
+**Dodatkowe skrypty do pracy z rozszerzeniem do pobrania na <a class="paragraph-link" href="https://github.com/oh1apps/sellasistant_scripts">GitHub</a>
