@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Telegram Pusher](assets/images/ico/tp.png)
+<img src="assets/images/icons/tp.webp" height="48">
 ## Telegram Pusher
 ***
 
@@ -15,11 +15,7 @@ You can add as many accounts as you like and send things just by right-clicking!
 
 Telegram Pusher is available for Firefox and Chromium based browsers. You can get it below:
 
-<a href="https://chrome.google.com/webstore/detail/telegram-pusher/ebhigbmhamklhjnaleccblonlaimplin"><img src="assets/images/badges/cr.png" height="36"/></a>
-
-<a href="https://microsoftedge.microsoft.com/addons/detail/telegram-pusher/ajchnkkjjdjbdbadphbenmgiabnbjofb"><img src="assets/images/badges/edge.png" height="36"/></a>
-
-<a href="https://addons.mozilla.org/pl/firefox/addon/telegram-pusher/"><img src="assets/images/badges/fox.png" height="36"/></a>
+<a href="https://chrome.google.com/webstore/detail/telegram-pusher/ebhigbmhamklhjnaleccblonlaimplin"><img src="assets/images/badges/cr.png" height="36"/></a><a href="https://microsoftedge.microsoft.com/addons/detail/telegram-pusher/ajchnkkjjdjbdbadphbenmgiabnbjofb"><img src="assets/images/badges/edge.png" height="36"/></a><a href="https://addons.mozilla.org/pl/firefox/addon/telegram-pusher/"><img src="assets/images/badges/fox.png" height="36"/></a>
 
 ### Setup
 ***
