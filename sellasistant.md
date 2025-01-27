@@ -9,6 +9,14 @@ layout: default
 
 Rozszerzenie dodaje szereg funkcjonalności ułatwiających pracę z Sellasistem.
 
+**Dodatkowe skrypty do pracy z rozszerzeniem do pobrania na <a class="paragraph-link" href="https://github.com/oh1apps/sellasistant_scripts">GitHub</a>**
+
+
+
+## Przed pierwszym użyciem rozszerzenie należy skonfigurować przechodząc do jego ustawień.
+
+![Sellasistant](assets/images/screens/sa/screen0.jpg)
+
 ***
 
 ## Funkcje
@@ -56,12 +64,3 @@ Po wpisaniu kodu pocztowego na stronie zamówienia automatycznie uzupełnia nazw
 Dla klientów z Allegro dodaje panel Responso na stronie zamówienia
 
 ![Responso](assets/images/screens/sa/screen6.jpg)
-
-***
-
-## Przed pierwszym użyciem rozszerzenie należy skonfigurować przechodząc do jego ustawień.
-
-![Sellasistant](assets/images/screens/sa/screen0.jpg)
-
-
-**Dodatkowe skrypty do pracy z rozszerzeniem do pobrania na <a class="paragraph-link" href="https://github.com/oh1apps/sellasistant_scripts">GitHub</a>**
