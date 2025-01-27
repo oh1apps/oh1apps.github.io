@@ -11,8 +11,6 @@ Rozszerzenie dodaje szereg funkcjonalności ułatwiających pracę z Sellasistem
 
 **Dodatkowe skrypty do pracy z rozszerzeniem do pobrania na <a class="paragraph-link" href="https://github.com/oh1apps/sellasistant_scripts">GitHub</a>**
 
-
-
 ## Przed pierwszym użyciem rozszerzenie należy skonfigurować przechodząc do jego ustawień.
 
 ![Sellasistant](assets/images/screens/sa/screen0.jpg)
