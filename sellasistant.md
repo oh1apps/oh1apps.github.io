@@ -43,7 +43,7 @@ W zwrotach podświetla opłacone zamówienia i w przypadku zamówień Allegro do
 ***
 
 ### Pakowanie kodem
-Na ekranie pakowania oznacza zamówienie jako spakowane w całości - po zeskanowaniu kodu kreskowego lub wciśnięciu klawisza x
+Na ekranie pakowania oznacza zamówienie jako spakowane w całości - po zeskanowaniu kodu kreskowego lub wciśnięciu klawisza [x]
 
 ![Pakowanie kodem](assets/images/screens/sa/screen4.jpg)
 
