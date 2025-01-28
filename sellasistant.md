@@ -11,7 +11,7 @@ Rozszerzenie dodaje szereg funkcjonalności ułatwiających pracę z Sellasistem
 
 **Dodatkowe skrypty do pracy z rozszerzeniem do pobrania na <a class="paragraph-link" href="https://github.com/oh1apps/sellasistant_scripts">GitHub</a>**
 
-### Przed pierwszym użyciem rozszerzenie należy skonfigurować przechodząc do jego ustawień.
+### Przed pierwszym użyciem rozszerzenie należy skonfigurować przechodząc do jego ustawień:
 
 ![Sellasistant](assets/images/screens/sa/screen0.jpg)
 
@@ -19,7 +19,7 @@ Rozszerzenie dodaje szereg funkcjonalności ułatwiających pracę z Sellasistem
 
 ## Funkcje
 
-### Łączenie produktów
+### 1.Łączenie produktów
 Umożliwia łatwe łączenie produktów z magazynu Sellasist z produktami ze sklepu Shoper. Po połączeniu, z listy towarów w SA można przejść bezpośrednio do strony produktu w sklepie lub do strony edycji w panelu administracyjnym. Obsługiwane są zarówno produkty jak i warianty produktów (po stronie Shopera).
 
 ⚠️**Wymaga dodatkowego skryptu**
@@ -44,6 +44,14 @@ W zwrotach podświetla opłacone zamówienia i w przypadku zamówień Allegro do
 
 ### Pakowanie kodem
 Na ekranie pakowania oznacza zamówienie jako spakowane w całości - po zeskanowaniu kodu kreskowego lub wciśnięciu klawisza [x]
+
+⚠️**Sellasist ma błąd na stronie uniemożliwiający bezpośrednie przejście do pakowania wybranego zamówienia, aby pakowanie działało należy:**
+
+1. Otworzyć okno pakowania
+2. Kliknąć w dowolnym miejscu na szarym tle
+3. Wybrać zamówienie do pakowania z listy lub skanując jego kod
+4. Spakować zamówienie kodem lub klawiszem [x]
+5. Powtózyć punkt 3, itd.
 
 ![Pakowanie kodem](assets/images/screens/sa/screen4.jpg)
 
