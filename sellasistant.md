@@ -70,3 +70,7 @@ Po wpisaniu kodu pocztowego na stronie zamówienia automatycznie uzupełnia nazw
 Dla klientów z Allegro dodaje panel Responso na stronie zamówienia
 
 ![Responso](assets/images/screens/sa/screen6.jpg)
+
+oraz w Responso dodaje listę zamówień klienta z Allegro (tak jak ma to miejsce w przypadku Baselinkera)
+
+![Responso](assets/images/screens/sa/screen7.jpg)
