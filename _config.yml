@@ -2,6 +2,6 @@ title: OH1 Apps
 logo: assets/images/oh1512.webp
 description:
 show_downloads: false
-remote_theme: jekyll-theme-chirpy
+remote_theme: jekyll-theme-chirpy@v7.2.4
 plugins:
 - jekyll-remote-theme
