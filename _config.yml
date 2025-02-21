@@ -1,7 +1,7 @@
 title: OH1 Apps
 logo: assets/images/oh1512.webp
-description: coding for funs
+description:
 show_downloads: false
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: jekyll-theme-chirpy
 plugins:
 - jekyll-remote-theme
