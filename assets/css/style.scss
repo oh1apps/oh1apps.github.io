@@ -22,7 +22,7 @@ body > div > header {
   justify-content: space-between;
 
   > * {
-    margin-bottom: revert;
+    margin-bottom: unset;
   }
 }
 
@@ -40,6 +40,12 @@ body > div > header {
   margin-right: auto;
 }
 
+.project-header {
+  display: flex;
+  align-items: center;
+
+}
+
 .project-icon {
 
   height: 36px;
@@ -47,16 +53,9 @@ body > div > header {
 
 }
 
-.project-header {
-  display: flex;
-  align-items: center;
-
-
-}
-
 .country-icon {
-
-  height: 16px;
+margin-left: 8px;
+  height: 12px;
 }
 
 .content {
