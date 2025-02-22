@@ -4,6 +4,7 @@
 <img class="project-icon" src="assets/images/icons/sa.webp">
 
 ## Sellasistant
+
 <img class="country-icon" src="assets/images/poland.png">
 
 </div>
@@ -24,11 +25,14 @@ Skrót do edytora Shoper dla produktów, kategorii i stron informacyjnych
 
 ***
 
+<div markdown="1" class="project-header">
+
 <img src="assets/images/icons/tp.webp" height="36">
 
 ## Telegram Pusher
 
 Send web content to Telegram
+</div>
 
 <a href="./telegram_pusher.html">Read more...</a>
 

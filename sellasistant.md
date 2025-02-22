@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-<div>
-<img src="assets/images/icons/sa.webp" height="48">
+<div markdown="1" class="project-header">
+<img class="project-icon" src="assets/images/icons/sa.webp">
 
-# Sellasistant
+## Sellasistant
 </div>
 
 <a href="https://chrome.google.com/webstore/detail/sellasistant/ljphfmppleockoamlbfhbllebnghdgae"><img class="badges" src="assets/images/badges/cr.png" height="36"/></a>
