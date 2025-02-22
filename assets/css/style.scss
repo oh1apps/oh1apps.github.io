@@ -1,7 +1,4 @@
----
----
-
-@import "{{ site.theme }}";
+--- --- @import "{{ site.theme }}";
 @import "fonts";
 @import "rouge-github";
 
@@ -10,12 +7,18 @@ body {
   color: #727272;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong {
   color: #C8C8C8;
 }
 
 hr {
-  background:#555;
+  background: #555;
 }
 
 p {
