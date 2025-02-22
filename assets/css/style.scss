@@ -14,9 +14,24 @@ body {
 }
 
 .body > div > header {
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
   > * {
     margin-bottom: 10px;
   }
+}
+
+body > div > header > img {
+
+  margin-right: 36px;
+}
+
+body > div > header > h1 {
+
+  margin-right: auto;
 }
 
 
