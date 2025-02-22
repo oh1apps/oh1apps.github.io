@@ -22,7 +22,7 @@ body > div > header {
   justify-content: space-between;
 
   > * {
-    margin-bottom: 0px;
+    margin-bottom: revert;
   }
 }
 
@@ -43,6 +43,14 @@ body > div > header {
 .project-icon {
 
   height: 36px;
+  margin-right: 18px;
+
+}
+
+.project-header {
+  display: flex;
+  align-items: center;
+
 
 }
 

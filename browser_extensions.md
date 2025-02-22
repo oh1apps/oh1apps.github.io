@@ -1,6 +1,6 @@
 # Browser Extensions
 ***
-<div markdown="1">
+<div markdown="1" class="project-header">
 <img class="project-icon" src="assets/images/icons/sa.webp">
 
 ## Sellasistant
