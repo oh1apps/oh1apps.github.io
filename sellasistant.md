@@ -1,15 +1,17 @@
 ---
 layout: default
 ---
+<div>
 <img src="assets/images/icons/sa.webp" height="48">
 
 # Sellasistant
+</div>
 
 <a href="https://chrome.google.com/webstore/detail/sellasistant/ljphfmppleockoamlbfhbllebnghdgae"><img class="badges" src="assets/images/badges/cr.png" height="36"/></a>
 
 Rozszerzenie dodaje szereg funkcjonalności ułatwiających pracę z Sellasistem.
 
-**Dodatkowe skrypty do pracy z rozszerzeniem do pobrania na <a class="paragraph-link" href="https://github.com/oh1apps/sellasistant_scripts">GitHub</a>**
+**Dodatkowe skrypty do pracy z rozszerzeniem do pobrania na <a href="https://github.com/oh1apps/sellasistant_scripts">GitHub</a>**
 
 ### Przed pierwszym użyciem rozszerzenie należy skonfigurować przechodząc do jego ustawień:
 
