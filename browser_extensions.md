@@ -27,12 +27,12 @@ Skrót do edytora Shoper dla produktów, kategorii i stron informacyjnych
 
 <div markdown="1" class="project-header">
 
-<img src="assets/images/icons/tp.webp" height="36">
+<img class="project-icon" src="assets/images/icons/tp.webp" height="36">
 
 ## Telegram Pusher
+</div>
 
 Send web content to Telegram
-</div>
 
 <a href="./telegram_pusher.html">Read more...</a>
 
