@@ -31,8 +31,8 @@ body > div > header {
 }
 
 .site-logo {
-  height: 56px;
-  margin-right: 36px;
+  height: 48px;
+  margin-right: 24px;
 }
 
 .site-name {
@@ -52,7 +52,10 @@ h1,h2,h3,h4,h5,h6,strong {
 }
 
 hr {
-  background: #555;
+  background: transparent;
+  border-style: dashed none none;
+  border-color: #555;
+  border-width: 2px;
 }
 
 p {
