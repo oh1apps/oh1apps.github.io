@@ -1,9 +1,12 @@
 # Browser Extensions
 ***
+<div markdown="1">
+<img class="project-icon" src="assets/images/icons/sa.webp">
 
-<img src="assets/images/icons/sa.webp" height="36">
+## Sellasistant
+<img class="country-icon" src="assets/images/poland.png">
 
-## Sellasistant <img src="assets/images/poland.png" width="16">
+</div>
 
 Rozszerzenie ułatwiające pracę z Sellasistem
 
