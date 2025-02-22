@@ -5,19 +5,21 @@
 @import "{{ site.theme }}";
 @import "fonts";
 @import "rouge-github";
-@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 body {
   background-color: #222;
   color: #727272;
-  font-family: "Oswald", sans-serif;
 }
 
 body > div > header {
 
+  width: auto;
+  float: none;
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: space-between;
+
 
   > * {
     margin-bottom: 10px;
