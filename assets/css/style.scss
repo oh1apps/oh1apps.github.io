@@ -13,7 +13,7 @@ body {
   font-family: "Oswald", sans-serif;
 }
 
-.body > div > header {
+body > div > header {
 
   display: flex;
   align-items: center;
@@ -24,12 +24,12 @@ body {
   }
 }
 
-body > div > header > img {
+.site-logo {
 
   margin-right: 36px;
 }
 
-body > div > header > h1 {
+.site-name {
 
   margin-right: auto;
 }
