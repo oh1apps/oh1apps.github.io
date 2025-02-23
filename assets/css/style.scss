@@ -8,8 +8,8 @@
 
 body {
   font-family: Cousine;
-  background-color: #3a001e;
-  color: #fff4ee;
+  background-color: #192123;
+  color: #f6f6f7;
   font-size: 16px;
 }
 
@@ -74,13 +74,13 @@ margin-left: 8px;
 
 
 h1,h2,h3,h4,h5,h6,strong {
-  color: #fff4ee;
+  color: #f6f6f7;
 }
 
 hr {
   background: transparent;
   border-style: dashed none none;
-  border-color: #bb8377;
+  border-color: #138698;
   border-width: 2px;
 }
 
@@ -89,15 +89,15 @@ p {
 }
 
 a {
-  color:#fff4ee;
+  color:#f6f6f7;
 }
 
 .paragraph-link:hover {
-  color:#fff4ee;
+  color:white;
   font-weight: initial;
 }
 
-.paragraph-link {
+.paragraph-link-link {
   color:#D62E22;
 
 }
