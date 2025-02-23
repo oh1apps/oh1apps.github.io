@@ -80,7 +80,7 @@ h1,h2,h3,h4,h5,h6,strong {
 hr {
   background: transparent;
   border-style: dashed none none;
-  border-color: #138698;
+  border-color: #26373b
   border-width: 2px;
 }
 
@@ -91,6 +91,10 @@ p {
 
 a {
   color:#f6f6f7;
+}
+
+a:hover {
+  color:#D62E22;
 }
 
 .paragraph-link:hover {
