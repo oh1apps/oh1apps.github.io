@@ -92,7 +92,12 @@ a {
   color:#ffffff;
 }
 
-a:hover {
-  color:#D62E22;
+.paragraph-link:hover {
+  color:white;
   font-weight: initial;
+}
+
+.paragraph-link {
+  color:#D62E22;
+
 }
